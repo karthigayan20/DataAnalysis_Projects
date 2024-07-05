@@ -1,6 +1,5 @@
 use PortfolioProjectSQl
-create database NashvilleHousing
-
+	
 /*
 CovidData Exploration 
 
